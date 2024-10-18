@@ -1,0 +1,9 @@
+
+#Zeros Steps
+step 1:- Xamp Cantrol Panel start
+Step 2: Create the folder of your name 
+Step 3:- install package by entering command npm i mysql
+
+#Main Practical
+1. Create  connection.js
+2. 
