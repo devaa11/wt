@@ -1,0 +1,18 @@
+In the Project there should be
+1. CRUD opreation
+2. create a web application there should be 4 functionallities 
+    -related to database
+    -redirecting 
+    -
+    -
+
+create logo 
+no mamagement sites
+blogs
+ecommerce 
+chatbot 
+portfolio 
+social media 
+reputed shop website 
+
+proper persenttaion no ppt no documentation 
